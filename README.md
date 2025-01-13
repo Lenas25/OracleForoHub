@@ -2,7 +2,7 @@
 A console project proposed by ForoHub with Spring Boot, Database MySQL and JWT
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="center" id="readme-top">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://miro.medium.com/v2/resize:fit:600/1*ljHUhFnaBissdRBe7DIo6g.png" alt="Logo" height="80">
   </a>
@@ -39,8 +39,6 @@ A console project proposed by ForoHub with Spring Boot, Database MySQL and JWT
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![image](https://github.com/user-attachments/assets/0b68426a-75e6-4c4b-8392-e2eb6831ec8c)
 
 This project is an API and was made with Spring Boot Web and JPA, using entities like users, topics, users to save in database, also there are many options to make queries related to the data saved. I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
